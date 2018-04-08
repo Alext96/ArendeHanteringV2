@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Sqlite">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/Employee Payroll/Employee Payroll/Sqlite.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Employee Payroll/Employee Payroll/Sqlite.jar" recursive="false" />
+  </library>
+</component>
